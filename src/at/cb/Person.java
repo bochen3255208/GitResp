@@ -7,6 +7,5 @@ package at.cb;
 public class Person {
     private int age;
     private String name;
-
-
+    private String address;
 }
